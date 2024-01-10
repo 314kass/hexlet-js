@@ -1,2 +1,3 @@
-import some from "./src/index.js";
+import some from './src/index.js';
+
 some();

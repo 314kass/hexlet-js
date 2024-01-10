@@ -1,6 +1,6 @@
-import lodash from "lodash";
-export default () => {
+import lodash from 'lodash';
 
-console.log("Hello, Hexlet!");
-console.log(lodash.last([1, 2]));
+export default () => {
+  console.log('Hello, Hexlet!');
+  console.log(lodash.last([1, 2]));
 };
